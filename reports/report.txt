@@ -1,0 +1,360 @@
+Analyzing file: BİLİM İŞ BAŞINDA.txt
+Generating 1-grams right now
+bir: 454
+ve: 202
+bu: 154
+iin: 91
+de: 75
+ok: 74
+ile: 71
+daha: 66
+da: 61
+olarak: 52
+Time taken for 1-grams: 154 ms
+
+Generating 2-grams right now
+bir biimde: 19
+pek ok: 19
+ile ilgili: 11
+deniz suyu: 10
+bir elektrik: 9
+herhangi bir: 9
+uygun bir: 9
+yine de: 9
+iyi bir: 9
+bu nedenle: 9
+Time taken for 2-grams: 40 ms
+
+Generating 3-grams right now
+ne yazk ki: 5
+sz konusu olduunda: 4
+dahil olmak zere: 4
+baka herhangi bir: 4
+dier bir deyile: 4
+termodinamiin ikinci yasas: 3
+byk miktarda enerji: 3
+buzun erime noktas: 3
+ultrasonik bir ses: 3
+yaygn olarak kullanlan: 3
+Time taken for 3-grams: 28 ms
+
+Analyzing file: grimms-fairy-tales_1.txt
+Generating 1-grams right now
+the: 227
+and: 163
+to: 91
+he: 74
+you: 43
+was: 39
+his: 38
+it: 36
+a: 34
+in: 34
+Time taken for 1-grams: 22 ms
+
+Generating 2-grams right now
+the fox: 22
+to the: 22
+and the: 19
+in the: 18
+the golden: 17
+the king: 13
+the bird: 13
+the princess: 12
+then the: 11
+but the: 11
+Time taken for 2-grams: 20 ms
+
+Generating 3-grams right now
+the golden bird: 8
+and in the: 7
+came to the: 7
+the young man: 7
+to the king: 6
+in the morning: 6
+you come to: 5
+the king and: 5
+the fox said: 5
+then the fox: 5
+Time taken for 3-grams: 26 ms
+
+Analyzing file: grimms-fairy-tales_2.txt
+Generating 1-grams right now
+the: 96
+and: 86
+a: 74
+he: 60
+i: 55
+to: 52
+you: 49
+his: 48
+it: 42
+for: 34
+Time taken for 1-grams: 8 ms
+
+Generating 2-grams right now
+as he: 10
+said the: 9
+it is: 7
+he was: 7
+said hans: 7
+a pig: 6
+the cow: 6
+he had: 6
+to be: 6
+the world: 6
+Time taken for 2-grams: 13 ms
+
+Generating 3-grams right now
+for it and: 4
+i gave a: 4
+butter and cheese: 3
+it and the: 3
+gave him a: 3
+by his side: 2
+and at last: 2
+seven long years: 2
+said the other: 2
+as you are: 2
+Time taken for 3-grams: 14 ms
+
+Analyzing file: grimms-fairy-tales_3.txt
+Generating 1-grams right now
+the: 71
+and: 54
+he: 47
+a: 29
+to: 23
+in: 23
+was: 19
+her: 18
+of: 17
+that: 16
+Time taken for 1-grams: 3 ms
+
+Generating 2-grams right now
+in the: 13
+flower and: 7
+the flower: 6
+could not: 6
+the castle: 6
+to the: 5
+then he: 5
+the fairy: 5
+he could: 4
+into a: 4
+Time taken for 2-grams: 3 ms
+
+Generating 3-grams right now
+the flower and: 4
+the middle of: 3
+with the flower: 3
+could not move: 3
+he could not: 3
+in the middle: 3
+in the castle: 3
+whose name was: 2
+whu tu whu: 2
+changed into a: 2
+Time taken for 3-grams: 4 ms
+
+Analyzing file: grimms-fairy-tales_4.txt
+Generating 1-grams right now
+the: 115
+and: 60
+a: 40
+to: 38
+they: 26
+in: 20
+had: 19
+with: 18
+of: 18
+ass: 16
+Time taken for 1-grams: 8 ms
+
+Generating 2-grams right now
+the ass: 15
+said the: 13
+the cock: 8
+the cat: 8
+the dog: 8
+in the: 8
+to the: 7
+and the: 7
+of the: 6
+as they: 5
+Time taken for 2-grams: 7 ms
+
+Generating 3-grams right now
+said the ass: 8
+the great city: 4
+and the cock: 4
+up to the: 3
+said the cock: 3
+top of the: 3
+the house and: 3
+him in the: 2
+all his might: 2
+in the yard: 2
+Time taken for 3-grams: 8 ms
+
+Analyzing file: grimms-fairy-tales_5.txt
+Generating 1-grams right now
+the: 59
+and: 53
+to: 25
+his: 21
+a: 17
+he: 17
+him: 15
+sultan: 15
+wolf: 13
+was: 12
+Time taken for 1-grams: 3 ms
+
+Generating 2-grams right now
+the wolf: 13
+in the: 7
+the shepherd: 6
+i will: 5
+and the: 5
+his wife: 5
+old sultan: 4
+the boar: 4
+to be: 4
+and when: 3
+Time taken for 2-grams: 3 ms
+
+Generating 3-grams right now
+the shepherd and: 3
+shepherd and his: 3
+and his wife: 3
+the wolf was: 2
+as long as: 2
+he has served: 2
+in the air: 2
+sultan who was: 2
+out of the: 2
+has served us: 2
+Time taken for 3-grams: 2 ms
+
+Analyzing file: grimms-fairy-tales_6.txt
+Generating 1-grams right now
+the: 38
+and: 25
+a: 17
+to: 13
+straw: 8
+she: 8
+her: 8
+have: 8
+on: 8
+i: 7
+Time taken for 1-grams: 2 ms
+
+Generating 2-grams right now
+the straw: 6
+the bean: 5
+the coal: 5
+into the: 4
+have been: 4
+to the: 3
+when she: 3
+old woman: 3
+said i: 2
+down to: 2
+Time taken for 2-grams: 1 ms
+
+Generating 3-grams right now
+would have been: 2
+the straw the: 2
+should have been: 2
+the old woman: 2
+into the pan: 2
+idea and said: 1
+her last the: 1
+good fortune a: 1
+made a fire: 1
+then have a: 1
+Time taken for 3-grams: 2 ms
+
+Analyzing file: DEĞİŞİM.txt
+Generating 1-grams right now
+bir: 541
+ve: 256
+bu: 164
+gregor: 159
+ama: 146
+de: 123
+da: 103
+iin: 98
+gregorun: 95
+gibi: 95
+Time taken for 1-grams: 28 ms
+
+Generating 2-grams right now
+bir ey: 29
+anne ve: 29
+mdr bey: 24
+mdr beyin: 18
+bay samsa: 18
+bundan byle: 17
+ya da: 15
+hi de: 15
+bir an: 15
+saa sola: 14
+Time taken for 2-grams: 19 ms
+
+Generating 3-grams right now
+anne ve babas: 9
+baylardan orta boylusu: 9
+ne var ki: 8
+en ufak bir: 6
+anne ve babasna: 5
+diye geirdi iinden: 5
+ama yine de: 4
+anne ve babasnn: 4
+byle bir eyin: 4
+bir an bile: 3
+Time taken for 3-grams: 24 ms
+
+Analyzing file: grimms-fairy-tales_7.txt
+Generating 1-grams right now
+the: 141
+and: 105
+a: 33
+to: 29
+was: 27
+in: 26
+her: 25
+that: 22
+of: 21
+on: 21
+Time taken for 1-grams: 2 ms
+
+Generating 2-grams right now
+and the: 14
+in the: 13
+on the: 10
+of the: 10
+king and: 7
+the king: 7
+and queen: 6
+briar rose: 6
+all the: 6
+into the: 5
+Time taken for 2-grams: 2 ms
+
+Generating 3-grams right now
+king and queen: 6
+the king and: 5
+and the cook: 3
+and the horses: 3
+till at last: 3
+the kings daughter: 3
+came to the: 2
+and queen had: 2
+the palace and: 2
+that he could: 2
+Time taken for 3-grams: 3 ms
+
