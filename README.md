@@ -40,9 +40,3 @@ java -Dfile.encoding=UTF-8 -cp out Main
 
 ## Example Output
 See `reports/report.txt` for a sample run (Top‑N per file and per n‑gram size).
-
-## Roadmap (optional)
-- [ ] Move datasets into `data/` and parameterize file discovery.
-- [ ] Add CLI args: `--n 1,2,3 --top 20 --input data/`.
-- [ ] Export CSV for downstream analysis.
-- [ ] Package as runnable JAR or Gradle project.
